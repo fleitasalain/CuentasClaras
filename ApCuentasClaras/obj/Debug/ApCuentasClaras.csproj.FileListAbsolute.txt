@@ -1,0 +1,10 @@
+c:\users\enuvol\documents\visual studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\bin\Debug\ApCuentasClaras.exe.config
+C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\bin\Debug\ApCuentasClaras.exe
+C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\bin\Debug\ApCuentasClaras.pdb
+C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\obj\Debug\ApCuentasClaras.csprojResolveAssemblyReference.cache
+C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\obj\Debug\ApCuentasClaras.Form1.resources
+C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\obj\Debug\ApCuentasClaras.PantallaDePresentacion.resources
+C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\obj\Debug\ApCuentasClaras.Properties.Resources.resources
+C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\obj\Debug\ApCuentasClaras.csproj.GenerateResource.Cache
+C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\obj\Debug\ApCuentasClaras.exe
+C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\obj\Debug\ApCuentasClaras.pdb
