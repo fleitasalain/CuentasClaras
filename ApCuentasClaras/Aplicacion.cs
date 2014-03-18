@@ -23,7 +23,7 @@ namespace ApCuentasClaras
         protected override void OnCreateMainForm()
         {
             base.OnCreateMainForm();
-            this.MainForm = new Form1();
+            this.MainForm = new Calculadora();
             // Argumentos en la línea de órdenes
             if (this.CommandLineArgs.Count > 0)
             {
