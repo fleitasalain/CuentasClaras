@@ -9,3 +9,4 @@ C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasC
 C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\obj\Debug\ApCuentasClaras.pdb
 C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\obj\Debug\ApCuentasClaras.Conver.resources
 C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\obj\Debug\ApCuentasClaras.Calculadora.resources
+C:\Users\eNuvol\Documents\Visual Studio 2012\Projects\ApCuentasClaras\ApCuentasClaras\obj\Debug\ApCuentasClaras.Menus.resources

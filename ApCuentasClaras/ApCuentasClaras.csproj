@@ -58,6 +58,12 @@
     <Compile Include="Conver.Designer.cs">
       <DependentUpon>Conver.cs</DependentUpon>
     </Compile>
+    <Compile Include="Menus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menus.Designer.cs">
+      <DependentUpon>Menus.cs</DependentUpon>
+    </Compile>
     <Compile Include="PantallaDePresentacion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +77,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Conver.resx">
       <DependentUpon>Conver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menus.resx">
+      <DependentUpon>Menus.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PantallaDePresentacion.resx">
       <DependentUpon>PantallaDePresentacion.cs</DependentUpon>
@@ -104,8 +113,54 @@
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Resources\" />
+    <None Include="Imaganes\imagenArchivoAbrir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imaganes\imagenArchivoGuardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imaganes\imagenbtbarAbrir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imaganes\imagenbtbarCopiar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imaganes\imagenbtbarCortar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imaganes\imagenbtbarDeshacer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imaganes\imagenbtbarGuardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imaganes\imagenbtbarPegar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imaganes\imagenEdicionCopiar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imaganes\imagenEdicionCortar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imaganes\imagenEdicionDeshacer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imaganes\imagenEdicionPegar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagenArchivoAbrir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagenArchivoGuardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagenbtbarAbrir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagenbtbarGuardar.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
